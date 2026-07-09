@@ -1,2 +1,5 @@
-@use "./styles/abstracts/variables";
-@use "./styles/base/globals"
+@use "./styles/abstracts/colors";
+@use "./styles/base/globals";
+@use "./styles/abstracts/breakponts";
+@use "./styles/abstracts/spacing";
+@use "./styles/abstracts/typography";
